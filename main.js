@@ -5,5 +5,4 @@ if (lastName.length >= 7) {
 } else {
     console.log("The last name " + lastName);
 }
-
- 
+alert("poop");
